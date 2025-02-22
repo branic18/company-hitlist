@@ -7,7 +7,7 @@
     "dev": "vite",
     "lint": "eslint .",
     "preview": "vite preview",
-    "build": "vite build",         // For production build
+    "build": "vite build",    
     "start": "vite preview"
     "deploy": "npm run dev" 
   },
