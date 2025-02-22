@@ -10,7 +10,6 @@
     "preview": "vite preview",
     "start": "serve -s build -p $PORT",
     "local": "react-scripts start",
-    "build": "react-scripts build",
   },
   "dependencies": {
     "react": "^19.0.0",
